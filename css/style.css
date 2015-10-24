@@ -1,0 +1,62 @@
+fieldset[disabled] .btn-primary.active {
+    border-color: #699116;
+    background-color: #699116;
+}
+
+.btn-primary .badge {
+    color: #699116;
+    background-color: #fff;
+}
+
+.navbar-default.affix .nav > li>a:hover,
+.navbar-default.affix .nav>li>a:focus:hover {
+    color: #699116;
+}
+
+.header-content {
+	backgound-image: url(../img/hops.jpg);
+}
+
+hr {
+    max-width: 50px;
+    border-color: #699116;
+    border-width: 3px;
+}
+
+.bg-primary {
+	background-color: #699116;
+}
+
+.text-primary {
+	color: #699116;
+}
+
+.btn-primary {
+	background-color: #699116;
+}
+
+a {
+	color: #699116;
+}
+
+/* Social Icons */
+
+.social {
+    margin: 0;
+    padding: 0;
+}
+
+.social ul {
+    margin: 0;
+    padding: 5px;
+}
+
+.social ul li {
+    margin: 5px;
+    list-style: none outside none;
+    display: inline-block;
+}
+
+.social a {
+	color: #699116;
+}
